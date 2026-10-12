@@ -2,6 +2,9 @@
 
 Base inicial para configurar la conexión y crear las colecciones vacías de una tienda de repuestos de motos.
 
+Para ver la instalación completa y las pruebas, consulta la
+[guía de instalación](./GUIA_INSTALACION.md).
+
 ## Configuración
 
 Desde esta carpeta, crea y activa un entorno virtual e instala las dependencias:
